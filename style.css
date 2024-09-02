@@ -55,7 +55,7 @@ button {
   grid-column: 1/-1;
 }
 #player{
-  position: absolote;
+  position: absolute;
   bottom: 80px;
   right: 50px;
 }
