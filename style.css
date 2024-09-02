@@ -54,3 +54,8 @@ button {
 #controlls button:first-of-type {
   grid-column: 1/-1;
 }
+#player{
+  position: absolote;
+  bottom: 80px;
+  right: 50px;
+}
